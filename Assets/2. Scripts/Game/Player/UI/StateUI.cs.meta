@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e2dbfe2234c8b9e409a67ef196e97d8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - standingSprite: {fileID: 21300000, guid: d02e524c5fec84d4fbbace558d921eeb, type: 3}
+  - bendingSprite: {fileID: 21300000, guid: ed770f4d7d3f0794a888ccdb2eb3cbd8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

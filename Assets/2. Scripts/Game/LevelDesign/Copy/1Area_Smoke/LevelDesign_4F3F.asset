@@ -1,0 +1,4687 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae2843a4ab5c1ec4e8b021abbca31533, type: 3}
+  m_Name: LevelDesign_4F3F
+  m_EditorClassIdentifier: 
+  floor: 3
+  smokeTable:
+  - objs: []
+  - objs: []
+  - objs:
+    - time: 0
+      idx: 157
+      steps: 1
+      direction: {x: 0, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 0
+      idx: 158
+      steps: 1
+      direction: {x: 0, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 2
+      idx: 163
+      steps: 1
+      direction: {x: 0, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 2
+      idx: 164
+      steps: 1
+      direction: {x: 0, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 15
+      idx: 161
+      steps: 1
+      direction: {x: 0, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 15
+      idx: 162
+      steps: 1
+      direction: {x: 0, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 16
+      idx: 141
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 16
+      idx: 143
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 138
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 139
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 140
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 145
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 0
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 1
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 2
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 6
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 7
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 20
+      idx: 8
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 9
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 10
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 11
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 3
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 4
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 5
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 133
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 135
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 136
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 144
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 147
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 148
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 12
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 13
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 14
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 31
+      idx: 141
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 31
+      idx: 143
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 149
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 150
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 15
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 16
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 17
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 138
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 139
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 140
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 145
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 0
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 1
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 2
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 6
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 7
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 35
+      idx: 8
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 151
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 152
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 18
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 19
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 20
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 3
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 4
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 5
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 133
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 135
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 136
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 144
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 9
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 10
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 11
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 153
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 154
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 21
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 22
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 23
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 147
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 148
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 12
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 13
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 14
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44
+      idx: 155
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44
+      idx: 156
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44
+      idx: 24
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44
+      idx: 25
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44
+      idx: 26
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 46
+      idx: 141
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 46
+      idx: 143
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 149
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 150
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 15
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 16
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 17
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 48
+      idx: 27
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 48
+      idx: 28
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 48
+      idx: 29
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 48
+      idx: 30
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 48
+      idx: 31
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 48
+      idx: 32
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 48
+      idx: 33
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 50
+      idx: 138
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 50
+      idx: 139
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 50
+      idx: 140
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 50
+      idx: 145
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 50
+      idx: 0
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 50
+      idx: 1
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 50
+      idx: 2
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 50
+      idx: 6
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 50
+      idx: 7
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 50
+      idx: 8
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 51
+      idx: 151
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 51
+      idx: 152
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 51
+      idx: 18
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 51
+      idx: 19
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 51
+      idx: 20
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 52
+      idx: 34
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 35
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 36
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 37
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 38
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 39
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 40
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 54
+      idx: 3
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 54
+      idx: 4
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 54
+      idx: 5
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 54
+      idx: 133
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 54
+      idx: 135
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 54
+      idx: 136
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 54
+      idx: 144
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 54
+      idx: 9
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 54
+      idx: 10
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 54
+      idx: 11
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 55
+      idx: 153
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 55
+      idx: 154
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 55
+      idx: 21
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 55
+      idx: 22
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 55
+      idx: 23
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 56
+      idx: 41
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 42
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 43
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 44
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 45
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 46
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 47
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 58
+      idx: 147
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 58
+      idx: 12
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 58
+      idx: 13
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 58
+      idx: 14
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 59
+      idx: 155
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 59
+      idx: 156
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 59
+      idx: 24
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 59
+      idx: 25
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 59
+      idx: 26
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 60
+      idx: 49
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 50
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 51
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 52
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 53
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 54
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 48
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 55
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 64
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 62
+      idx: 149
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 62
+      idx: 150
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 62
+      idx: 15
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 62
+      idx: 16
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 62
+      idx: 17
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 63
+      idx: 27
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 63
+      idx: 28
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 63
+      idx: 29
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 63
+      idx: 30
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 63
+      idx: 31
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 63
+      idx: 32
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 63
+      idx: 33
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 69
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 70
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 71
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 66
+      idx: 151
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 66
+      idx: 152
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 66
+      idx: 18
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 66
+      idx: 19
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 66
+      idx: 20
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 67
+      idx: 34
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 35
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 36
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 37
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 38
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 39
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 40
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 68
+      idx: 72
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 68
+      idx: 73
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 68
+      idx: 74
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 70
+      idx: 153
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 70
+      idx: 154
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 70
+      idx: 21
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 70
+      idx: 22
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 70
+      idx: 23
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 71
+      idx: 41
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 42
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 43
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 44
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 45
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 46
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 47
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 72
+      idx: 75
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 72
+      idx: 76
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 72
+      idx: 77
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 74
+      idx: 155
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 74
+      idx: 156
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 74
+      idx: 24
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 74
+      idx: 25
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 74
+      idx: 26
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 75
+      idx: 49
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 50
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 51
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 52
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 53
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 54
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 48
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 55
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 64
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 76
+      idx: 78
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 76
+      idx: 79
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 76
+      idx: 80
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 78
+      idx: 27
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 78
+      idx: 28
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 78
+      idx: 29
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 78
+      idx: 30
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 78
+      idx: 31
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 78
+      idx: 32
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 78
+      idx: 33
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 69
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 70
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 71
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 80
+      idx: 81
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 80
+      idx: 82
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 80
+      idx: 83
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 82
+      idx: 34
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 82
+      idx: 35
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 82
+      idx: 36
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 82
+      idx: 37
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 82
+      idx: 38
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 82
+      idx: 39
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 82
+      idx: 40
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 83
+      idx: 72
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 83
+      idx: 73
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 83
+      idx: 74
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 84
+      idx: 84
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 84
+      idx: 85
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 84
+      idx: 86
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 86
+      idx: 41
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 86
+      idx: 42
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 86
+      idx: 43
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 86
+      idx: 44
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 86
+      idx: 45
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 86
+      idx: 46
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 86
+      idx: 47
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 87
+      idx: 75
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 87
+      idx: 76
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 87
+      idx: 77
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 87
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 88
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 89
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 90
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 91
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 92
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 93
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 94
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 95
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 90
+      idx: 49
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 90
+      idx: 50
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 90
+      idx: 51
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 90
+      idx: 52
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 90
+      idx: 53
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 90
+      idx: 54
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 90
+      idx: 48
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 90
+      idx: 55
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 90
+      idx: 64
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 91
+      idx: 78
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 91
+      idx: 79
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 91
+      idx: 80
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 96
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 97
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 98
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 100
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 101
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 102
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 103
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 104
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 94
+      idx: 69
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 94
+      idx: 70
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 94
+      idx: 71
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 95
+      idx: 81
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 95
+      idx: 82
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 95
+      idx: 83
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 99
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 111
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 120
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 98
+      idx: 72
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 98
+      idx: 73
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 98
+      idx: 74
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 99
+      idx: 84
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 99
+      idx: 85
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 99
+      idx: 86
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 100
+      idx: 123
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 100
+      idx: 124
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 100
+      idx: 125
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 102
+      idx: 75
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 102
+      idx: 76
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 102
+      idx: 77
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 87
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 88
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 89
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 90
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 91
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 92
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 93
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 94
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 95
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 104
+      idx: 126
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 104
+      idx: 127
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 104
+      idx: 128
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 106
+      idx: 78
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 106
+      idx: 79
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 106
+      idx: 80
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 128
+      steps: 1
+      direction: {x: 0, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 96
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 97
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 98
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 100
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 101
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 102
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 103
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 104
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 110
+      idx: 81
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 110
+      idx: 82
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 110
+      idx: 83
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 99
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 111
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 120
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 114
+      idx: 84
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 114
+      idx: 85
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 114
+      idx: 86
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 115
+      idx: 123
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 115
+      idx: 124
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 115
+      idx: 125
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 87
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 88
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 89
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 90
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 91
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 92
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 93
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 94
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 95
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 119
+      idx: 126
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 119
+      idx: 127
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 119
+      idx: 128
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 122
+      idx: 96
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 122
+      idx: 97
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 122
+      idx: 98
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 122
+      idx: 100
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 122
+      idx: 101
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 122
+      idx: 102
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 122
+      idx: 103
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 122
+      idx: 104
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 126
+      idx: 99
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 126
+      idx: 111
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 126
+      idx: 120
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 130
+      idx: 123
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 130
+      idx: 124
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 130
+      idx: 125
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 134
+      idx: 126
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 134
+      idx: 127
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 134
+      idx: 128
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+  - objs:
+    - time: 0
+      idx: 157
+      steps: 1
+      direction: {x: 0, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 0
+      idx: 158
+      steps: 1
+      direction: {x: 0, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 0.2
+      idx: 141
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 0.2
+      idx: 142
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 0.2
+      idx: 146
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 0.2
+      idx: 143
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 138
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 139
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 140
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 145
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 6
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 7
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 8
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 0
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 1
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 3.2
+      idx: 2
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 6.5
+      idx: 3
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 6.5
+      idx: 4
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 6.5
+      idx: 5
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 6.5
+      idx: 133
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 6.5
+      idx: 135
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 6.5
+      idx: 136
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 6.5
+      idx: 144
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 9
+      idx: 147
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 9
+      idx: 148
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 13
+      idx: 149
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 13
+      idx: 150
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 13
+      idx: 9
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 13
+      idx: 10
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 13
+      idx: 11
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 13
+      idx: 161
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 13
+      idx: 162
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 14
+      idx: 166
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 14.5
+      idx: 165
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 15
+      idx: 164
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 15.2
+      idx: 141
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 15.2
+      idx: 142
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 15.2
+      idx: 143
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 15.2
+      idx: 146
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 15.5
+      idx: 163
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 17
+      idx: 151
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 17
+      idx: 152
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 17
+      idx: 12
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 17
+      idx: 13
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 17
+      idx: 14
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 138
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 139
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 140
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 145
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 0
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 1
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 2
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 6
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 7
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 18.2
+      idx: 8
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21
+      idx: 153
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21
+      idx: 154
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21
+      idx: 15
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21
+      idx: 16
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21
+      idx: 17
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21.5
+      idx: 3
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21.5
+      idx: 4
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21.5
+      idx: 5
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21.5
+      idx: 133
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21.5
+      idx: 135
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21.5
+      idx: 136
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 21.5
+      idx: 144
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 147
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 24
+      idx: 148
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 25
+      idx: 155
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 25
+      idx: 156
+      steps: 1
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 25
+      idx: 18
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 25
+      idx: 19
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 25
+      idx: 20
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 9
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 10
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 11
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 149
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 150
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 161
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 28
+      idx: 162
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 29
+      idx: 21
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 29
+      idx: 22
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 29
+      idx: 23
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 29
+      idx: 166
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 29.5
+      idx: 165
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 30
+      idx: 164
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 30.2
+      idx: 141
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 30.2
+      idx: 142
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 30.2
+      idx: 143
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 30.2
+      idx: 146
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 30.5
+      idx: 163
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 12
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 13
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 14
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 151
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 32
+      idx: 152
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33
+      idx: 24
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33
+      idx: 25
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33
+      idx: 26
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 138
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 139
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 140
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 145
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 0
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 1
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 2
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 6
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 7
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 33.2
+      idx: 8
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 15
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 16
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 17
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 153
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36
+      idx: 154
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36.5
+      idx: 3
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36.5
+      idx: 4
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36.5
+      idx: 5
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36.5
+      idx: 133
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36.5
+      idx: 135
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36.5
+      idx: 136
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 36.5
+      idx: 144
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 37
+      idx: 27
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 37
+      idx: 28
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 37
+      idx: 29
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 37
+      idx: 30
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 37
+      idx: 31
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 37
+      idx: 32
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 37
+      idx: 33
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 39
+      idx: 147
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 39
+      idx: 148
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 18
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 19
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 20
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 155
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 40
+      idx: 156
+      steps: 2
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 41
+      idx: 34
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 41
+      idx: 35
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 41
+      idx: 36
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 41
+      idx: 37
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 41
+      idx: 38
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 41
+      idx: 39
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 41
+      idx: 40
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 43
+      idx: 161
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 162
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 9
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 10
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 11
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 149
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 43
+      idx: 150
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44
+      idx: 21
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44
+      idx: 22
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44
+      idx: 23
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44
+      idx: 166
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 44.5
+      idx: 165
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 45
+      idx: 41
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 45
+      idx: 42
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 45
+      idx: 43
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 45
+      idx: 44
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 45
+      idx: 45
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 45
+      idx: 46
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 45
+      idx: 47
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 45
+      idx: 164
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 45.5
+      idx: 163
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 12
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 13
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 14
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 151
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 47
+      idx: 152
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 48
+      idx: 24
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 48
+      idx: 25
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 48
+      idx: 26
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 49
+      idx: 49
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 49
+      idx: 50
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 49
+      idx: 51
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 49
+      idx: 52
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 49
+      idx: 53
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 49
+      idx: 54
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 49
+      idx: 48
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 49
+      idx: 55
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 49
+      idx: 64
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 51
+      idx: 15
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 51
+      idx: 16
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 51
+      idx: 17
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 51
+      idx: 153
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 51
+      idx: 154
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 52
+      idx: 27
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 28
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 29
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 30
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 31
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 32
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 52
+      idx: 33
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 53
+      idx: 69
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 53
+      idx: 70
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 53
+      idx: 71
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 55
+      idx: 18
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 55
+      idx: 19
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 55
+      idx: 20
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 55
+      idx: 155
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 55
+      idx: 156
+      steps: 3
+      direction: {x: 0, y: 0, z: -1}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 56
+      idx: 34
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 35
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 36
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 37
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 38
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 39
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 56
+      idx: 40
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 57
+      idx: 72
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 57
+      idx: 73
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 57
+      idx: 74
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 59
+      idx: 21
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 59
+      idx: 22
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 59
+      idx: 23
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 60
+      idx: 41
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 42
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 43
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 44
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 45
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 46
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 60
+      idx: 47
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 61
+      idx: 75
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 61
+      idx: 76
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 61
+      idx: 77
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 63
+      idx: 24
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 63
+      idx: 25
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 63
+      idx: 26
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 0
+      DoorIdx: 0
+    - time: 64
+      idx: 49
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 50
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 51
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 52
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 53
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 54
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 48
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 55
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 64
+      idx: 64
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 65
+      idx: 78
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 65
+      idx: 79
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 65
+      idx: 80
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 67
+      idx: 27
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 28
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 29
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 30
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 31
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 32
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 67
+      idx: 33
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 68
+      idx: 69
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 68
+      idx: 70
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 68
+      idx: 71
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 69
+      idx: 81
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 69
+      idx: 82
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 69
+      idx: 83
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 71
+      idx: 34
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 35
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 36
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 37
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 38
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 39
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 71
+      idx: 40
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 72
+      idx: 72
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 72
+      idx: 73
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 72
+      idx: 74
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 73
+      idx: 84
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 73
+      idx: 85
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 73
+      idx: 86
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 75
+      idx: 41
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 42
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 43
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 44
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 45
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 46
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 75
+      idx: 47
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 76
+      idx: 75
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 76
+      idx: 76
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 76
+      idx: 77
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 77
+      idx: 87
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 77
+      idx: 88
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 77
+      idx: 89
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 77
+      idx: 90
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 77
+      idx: 91
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 77
+      idx: 92
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 77
+      idx: 93
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 77
+      idx: 94
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 77
+      idx: 95
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 79
+      idx: 49
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 50
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 51
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 52
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 53
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 54
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 48
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 55
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 79
+      idx: 64
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 80
+      idx: 78
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 80
+      idx: 79
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 80
+      idx: 80
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 96
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 97
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 98
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 100
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 101
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 102
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 103
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 104
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 99
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 111
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 81
+      idx: 120
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 83
+      idx: 69
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 83
+      idx: 70
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 83
+      idx: 71
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 0
+    - time: 84
+      idx: 81
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 84
+      idx: 82
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 84
+      idx: 83
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 85
+      idx: 123
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 85
+      idx: 124
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 85
+      idx: 125
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 85
+      idx: 167
+      steps: 1
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 86
+      idx: 168
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 86.5
+      idx: 169
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 87
+      idx: 170
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 87
+      idx: 72
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 87
+      idx: 73
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 87
+      idx: 74
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 87.5
+      idx: 171
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 84
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 85
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 86
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 172
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 88
+      idx: 172
+      steps: 1
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 89
+      idx: 126
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 89
+      idx: 127
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 89
+      idx: 128
+      steps: 1
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 91
+      idx: 75
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 91
+      idx: 76
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 91
+      idx: 77
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 87
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 88
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 89
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 90
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 91
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 92
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 93
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 94
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 92
+      idx: 95
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 95
+      idx: 78
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 95
+      idx: 79
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 95
+      idx: 80
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 96
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 97
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 98
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 100
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 101
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 102
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 103
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 104
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 99
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 111
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 96
+      idx: 120
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 99
+      idx: 81
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 99
+      idx: 82
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 99
+      idx: 83
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 100
+      idx: 123
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 100
+      idx: 124
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 100
+      idx: 125
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 100
+      idx: 167
+      steps: 2
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 101
+      idx: 168
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 101.5
+      idx: 169
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 102
+      idx: 170
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 102.5
+      idx: 171
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 172
+      steps: 2
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 84
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 85
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 103
+      idx: 86
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 104
+      idx: 126
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 104
+      idx: 127
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 104
+      idx: 128
+      steps: 2
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 87
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 88
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 89
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 90
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 91
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 92
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 93
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 94
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 107
+      idx: 95
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 96
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 97
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 98
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 100
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 101
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 102
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 103
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 104
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 99
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 111
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 111
+      idx: 120
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 115
+      idx: 167
+      steps: 3
+      direction: {x: 0, y: 0, z: 1}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 115
+      idx: 123
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 115
+      idx: 124
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 115
+      idx: 125
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 116
+      idx: 168
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 116.5
+      idx: 169
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 117
+      idx: 170
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 117.5
+      idx: 171
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 118
+      idx: 172
+      steps: 3
+      direction: {x: 1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 119
+      idx: 126
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 119
+      idx: 127
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+    - time: 119
+      idx: 128
+      steps: 3
+      direction: {x: -1, y: 0, z: 0}
+      DoorIsClosed: 1
+      DoorIdx: 1
+  combustionTable:
+  - objs: []
+  - objs: []
+  - objs: []
+  - objs: []
